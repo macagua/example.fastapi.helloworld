@@ -55,10 +55,10 @@ the need for having to download a specific application.
 
 
 ```sh
-$ curl -X GET http://127.0.0.1:5000/
+$ curl -X GET http://127.0.0.1:8000/
 ```
 
-The above command demonstrates how to perform a ``GET`` request to get the ``Hello Message``.
+The above command demonstrates how to perform a ``GET`` request to get the ``Hello World`` message.
 
 
 ----
